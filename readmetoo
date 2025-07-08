@@ -1,0 +1,15 @@
+Angry Heroes Game
+Project Overview
+Angry Heroes is a Java-based game developed using the LibGDX framework. This project includes various levels, sprites, and mechanics for an interactive gaming experience.
+
+How to Run the Game
+Prerequisites
+Install Java Development Kit (JDK) (Version 8 or above).
+Install a compatible Integrated Development Environment (IDE) like IntelliJ IDEA, Eclipse, or any text editor with Gradle support.
+Ensure Gradle is installed on your machine (if not bundled in your IDE).
+
+Steps to Run the Game
+Open the project in your IDE.
+Run the Lwjgl3Launcher class as a Java application.
+The game window should launch successfully.
+
